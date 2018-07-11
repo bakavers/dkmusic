@@ -1,13 +1,17 @@
+{
   "name": "D.K Music",
   "version": "1.0.0",
   "description": "",
-  "main": "music.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Bakavers",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.3.2",
+    "moment": "^2.22.2",
+    "node.js": "0.0.0",
+    "settings.json": "^0.2.0"
   }
 }
